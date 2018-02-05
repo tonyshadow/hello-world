@@ -1,4 +1,4 @@
 # hello-world
-just the beginning
+Just the beginning
 
-it's not good to do this in the rush time!!!
+It's not good to do this in the rush time!!!
